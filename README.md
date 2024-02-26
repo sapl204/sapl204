@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with other devs <br>🌱 I’m currently studying maths at the Universidad del Atlántico and I studied<br>ADIS (Analysis and Development of Information Systems) at SENA<br>
+🔭 I’m currently working in sgif consultory<br>👯 I’m looking to collaborate with other devs <br>🌱 I’m currently studying maths at the Universidad del Atlántico and I studied<br>ADIS (Analysis and Development of Information Systems) at SENA<br>
 
 
 ## 🌐 Socials:
